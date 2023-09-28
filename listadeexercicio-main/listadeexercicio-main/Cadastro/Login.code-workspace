@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Login"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Cadastro",
+		"liveServer.settings.port": 5501
+	}
+}
